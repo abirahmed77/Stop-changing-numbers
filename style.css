@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  background-image: linear-gradient(cornflowerblue, pink);
+  background-attachment: fixed;
+}
+
+#num {
+  font-size: 320px;
+  color: rgb(132, 42, 196);
+}
+
+#num:hover {
+  cursor: pointer;
+}
